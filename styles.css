@@ -1,0 +1,30 @@
+.contendor{
+    background-image: url(giphy.gif);
+    background-position: center;
+    background-size: cover;
+    height: 263px;;
+    margin-bottom: 84px;
+}
+body{
+    background-color: black;
+}
+
+.nombreUsuario{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-content: center;
+    align-items: center;
+    color: white;
+}
+
+
+.entrar{
+    border: 2px solid red;
+    padding: 24px;
+    text-align: center;
+}
+
+.hola{
+    color: aquamarine;
+}
